@@ -1,5 +1,4 @@
 link to finished https://codepen.io/bwcummings1/pen/XWpZaKx?editors=1100
-    1. What is Semantic HTML? 
 
         HTMl that gives meaning or context to our code.  We use it for accessibility purposes.
 
